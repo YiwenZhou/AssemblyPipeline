@@ -1,5 +1,5 @@
 #!/bin/bash
-#AssemblyForEveryone.sh developed by Yiwen Zhou (Univeristy of Adelaide)
+#AssemblyForEveryone.sh developed by Yiwen Zhou (Univeristy of Adelaide) in August 2016
 #+with help from Dr Jimmy Breen, Dr Stephen Pederson, Dr Rick Tearle
 #the purpose of this script is for my own project.
 #some bash bullitins may have compatability problem between Mac and Linux! be cautcious
